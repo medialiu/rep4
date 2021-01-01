@@ -14,6 +14,7 @@ public class GitTest01 {
         System.out.println("hello git");
         System.out.println("hello git");
         System.out.println("hello git");
+        System.out.println(456);
     }
     public void test(){
         System.out.println(123);
